@@ -1,5 +1,24 @@
 # Changelog
 
+### [2.6.1](https://www.github.com/googleapis/java-asset/compare/v2.6.0...v2.6.1) (2021-08-09)
+
+
+### Bug Fixes
+
+* owlbot post-processor should generate README ([#1154](https://www.github.com/googleapis/java-asset/issues/1154)) ([#793](https://www.github.com/googleapis/java-asset/issues/793)) ([84dc864](https://www.github.com/googleapis/java-asset/commit/84dc864bb16481f286092109261b90e27fa82b85)), closes [#1146](https://www.github.com/googleapis/java-asset/issues/1146) [#1147](https://www.github.com/googleapis/java-asset/issues/1147)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-bigquery to v1.137.1 ([#787](https://www.github.com/googleapis/java-asset/issues/787)) ([2ec566a](https://www.github.com/googleapis/java-asset/commit/2ec566a3bd3677190af389f02fc96e9c1c8cb97f))
+* update dependency com.google.cloud:google-cloud-bigquery to v2 ([#819](https://www.github.com/googleapis/java-asset/issues/819)) ([c481d47](https://www.github.com/googleapis/java-asset/commit/c481d477b79ad004d810592595de0180572c9130))
+* update dependency com.google.cloud:google-cloud-core to v1.96.0 ([#812](https://www.github.com/googleapis/java-asset/issues/812)) ([f688de0](https://www.github.com/googleapis/java-asset/commit/f688de02a2d14aa2ba4366f6cc3963266fb51f2d))
+* update dependency com.google.cloud:google-cloud-core to v2 ([#814](https://www.github.com/googleapis/java-asset/issues/814)) ([a69e3ce](https://www.github.com/googleapis/java-asset/commit/a69e3ce9ce11f2d60a0a93727362526a523acc20))
+* update dependency com.google.cloud:google-cloud-resourcemanager to v0.119.9-alpha ([#806](https://www.github.com/googleapis/java-asset/issues/806)) ([f289f50](https://www.github.com/googleapis/java-asset/commit/f289f509170478f39475498132f8a90d25a00c97))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2 ([#816](https://www.github.com/googleapis/java-asset/issues/816)) ([de859d8](https://www.github.com/googleapis/java-asset/commit/de859d8b39c54dd334373444e18a16ad5776b9f8))
+* update dependency com.google.cloud:google-cloud-storage to v1.118.0 ([#792](https://www.github.com/googleapis/java-asset/issues/792)) ([9bd3011](https://www.github.com/googleapis/java-asset/commit/9bd3011eeec2cabfbcee250cf14776bb08b53daa))
+* update dependency com.google.cloud:google-cloud-storage to v1.118.1 ([#823](https://www.github.com/googleapis/java-asset/issues/823)) ([de1bfd6](https://www.github.com/googleapis/java-asset/commit/de1bfd6684631fd4e82280cf63bba76a385db110))
+
 ## [2.6.0](https://www.github.com/googleapis/java-asset/compare/v2.5.0...v2.6.0) (2021-07-06)
 
 
